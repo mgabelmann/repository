@@ -7,12 +7,12 @@ Contains versions of my software that I have published for consumption.
 Add the following repository to your settings.xml file so you can access the dependencies published there.
 
     <servers>
-		<server>
-			<id>github</id>
-			<username>PAT_USERNAME</username>
-			<password>PAT_PASSWORD</password>
-		</server>
-	</servers>
+      <server>
+        <id>github</id>
+	  <username>PAT_USERNAME</username>
+	  <password>PAT_PASSWORD</password>
+      </server>
+    </servers>
 
     <profiles>
       <profile>
