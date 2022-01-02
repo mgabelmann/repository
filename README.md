@@ -9,8 +9,8 @@ Add the following repository to your settings.xml file so you can access the dep
     <servers>
       <server>
         <id>github</id>
-	  <username>PAT_USERNAME</username>
-	  <password>PAT_PASSWORD</password>
+        <username>PAT_USERNAME</username>
+        <password>PAT_PASSWORD</password>
       </server>
     </servers>
 
